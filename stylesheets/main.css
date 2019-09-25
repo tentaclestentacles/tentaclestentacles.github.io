@@ -1,1 +1,12 @@
-
+html{
+    background-color:black
+}
+#title{
+    text-align:center;
+}
+.minor{
+    color:lightgray
+}
+.major{
+    color:white
+}
